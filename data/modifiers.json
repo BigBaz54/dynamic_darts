@@ -1,0 +1,42 @@
+{
+    "+1": [
+        "Donne un petit malus au joueur X",
+        "Avance d'un pas pour tous tes lancers",
+        "Relance une fléchette ratée",
+        "Ta prochaine fléchette est automatiquement un 20",
+        "Ta prochaine fléchette est automatiquement un simple bull's eye"
+    ],
+    "+2": [
+        "Donne un malus moyen au joueur X",
+        "Ta prochaine fléchette est automatiquement un double 20"
+    ],
+    "+3": [
+        "Donne un gros malus au joueur X",
+        "Ta prochaine fléchette est automatiquement un triple 20",
+        "Ta prochaine fléchette est automatiquement un double bull's eye"
+    ],
+    "-1": [
+        "Recule d'un pas pour ton premier lancer",
+        "Fais un tour sur toi-même avant ton premier lancer",
+        "Fais un pas à gauche pour ton premier lancer",
+        "Lance ta première fléchette les yeux fermés",
+        "Lance ta première fléchette sur un seul pied",
+        "Lance ta première fléchette de profil",
+        "Fais un burpee avant ton premier lancer",
+        "Lance ta première fléchette avec ton autre bras levé"
+    ],
+    "-2": [
+        "Recule d'un pas pour tous tes lancers",
+        "Fais un tour sur toi-même avant tous tes lancers",
+        "Fais un pas à gauche pour tous tes lancers",
+        "Lance ta première fléchette avec ta main opposée",
+        "Ne lance que 2 fléchettes",
+        "Fais un burpee entre chaque fléchette"
+    ],
+    "-3": [
+        "Passe ton tour",
+        "Ne lance que 1 fléchette lors de ce tour",
+        "Lance toutes tes fléchettes avec ta main opposée",
+        "Lance toutes tes fléchettes les yeux fermés"
+    ]
+}
